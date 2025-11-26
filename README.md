@@ -1,7 +1,5 @@
 # Simulador-de-Investimentos
 
-# Simulador de Performance de Investimentos
-
 ## Proposta de Valor e Decisão Estratégica
 Este projeto aplica **Ciência de Dados e Visão Contábil** para simular e otimizar a performance **LÍQUIDA** de ativos de Renda Fixa (CDB, LCI/LCA, Tesouro).
 
