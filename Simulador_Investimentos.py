@@ -6,7 +6,7 @@ import plotly.express as px
 
 # Configuração da Página
 st.set_page_config(
-    page_title="Simulador de Renda Fixa PRO", 
+    page_title="Simulador de Investimentos", 
     layout="wide", 
     initial_sidebar_state="expanded"
 )
@@ -116,7 +116,7 @@ def calcular_ativo_geral(valor_inicial, dias, tipo_rentabilidade, params, is_ise
 
 # Interface Principal
 
-st.title("📊 Simulador Estratégico de Renda Fixa")
+st.title("📊 Simulador de Investimentos")
 st.markdown("Configure o cenário exato e compare o resultado líquido contra benchmarks dinâmicos.")
 
 # ==========================================
@@ -293,4 +293,9 @@ if st.sidebar.button("Calcular Cenário 🚀"):
     st.info(f"⚠️ **Disclaimer Contábil:** Os resultados gerados são previsões baseadas em projeções de mercado. Para o **Controle Orçamentário**, considere sempre o **Valor Líquido**.")
 
 
+    st.info(f"Criado por **Adrian Cardoso**, Analista de Dados e FP&A")
+
             # Executar no terminal --> streamlit run Simulador_Investimentos.py <-- 
+
+
+
