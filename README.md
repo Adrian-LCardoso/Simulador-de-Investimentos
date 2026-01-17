@@ -18,7 +18,7 @@ A ferramenta permite a comparação direta da performance, considerando:
 - PostgreSQL (Gestão de Acesso e Limites)
 
 ## Como Acessar
-Acesse a ferramenta em [Link do Streamlit Cloud]
+Acesse a ferramenta em https://simuladordeinvestimentos.streamlit.app/
 
 ## Instalação Local
 1. Clone este repositório.
